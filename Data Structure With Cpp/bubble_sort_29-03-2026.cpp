@@ -25,7 +25,6 @@ int main(){
                 a[j] = a[j + 1];
                 a[j + 1] = tmp;
             }
-
             comp++;
         }
     }
